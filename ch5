@@ -35,3 +35,4 @@ plt.hist(df_friendsGroup["B"],bins=25, color="r")
 plt.xlabel("# of Friends")
 plt.ylabel("# of People")
 plt.show()
+
